@@ -1,4 +1,6 @@
 a=1
 b=3
-print(a*b)
+c=5
+print(a*b+c)
+
 
